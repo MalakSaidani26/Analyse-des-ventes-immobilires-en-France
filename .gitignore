@@ -1,0 +1,12 @@
+# Données volumineuses (trop lourdes pour GitHub : limite de 100 Mo par fichier)
+dataset/
+*.csv
+
+# Fichiers Jupyter / Python temporaires
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Système
+.DS_Store
+Thumbs.db
